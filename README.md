@@ -1,2 +1,3 @@
  - [the section denoted as starting on line 40] is a good place to put your functions (be sure to comment out any other code already there)
  - changing `fourthViewRadius` changes the thickness of the fourth dimensional viewing window
+ - changing the last argument of `np.arange` on line 30 will change the thickness of dots
